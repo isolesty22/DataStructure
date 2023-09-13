@@ -4,15 +4,17 @@ using namespace std;
 
 int main()
 {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+
     queue<int> queue;
 
-    unsigned int cmdNum;
+    int cmdNum;
     cin >> cmdNum;
-
-	string command;
 
 	while (cmdNum--)
 	{
+		string command;
 		cin >> command;
 
 		if (command == "push")
@@ -25,44 +27,41 @@ int main()
 		{
 			if (queue.empty())
 			{
-				cout << -1 << endl;
+				cout << -1 << '\n';
 			}
 			else
 			{
-				cout << queue.front() << endl;
+				cout << queue.front() << '\n';
 				queue.pop();
 			}
 		}
 		else if (command == "size")
-			cout << queue.size() << endl;
+			cout << queue.size() << '\n';
 		else if (command == "empty")
-			cout << queue.empty() << endl;
+			cout << queue.empty() << '\n';
 		else if (command == "front")
 		{
 			if (queue.empty())
 			{
-				cout << -1 << endl;
+				cout << -1 << '\n';
 			}
 			else
 			{
-				cout << queue.front() << endl;
+				cout << queue.front() << '\n';
 			}
 		}
 		else if (command == "back")
 		{
 			if (queue.empty())
 			{
-				cout << -1 << endl;
+				cout << -1 << '\n';
 			}
 			else
 			{
-				cout << queue.back() << endl;
+				cout << queue.back() << '\n';
 			}
 		}
-		/*else
-			cmdNum++;*/
-	
 	}
 
-		
+	return 0;
 }
