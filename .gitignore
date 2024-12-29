@@ -30,3 +30,56 @@
 *.exe
 *.out
 *.app
+
+# 빌드 파일
+/build/
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# 실행 파일
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# IDE 관련 파일
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# CMake 설정 파일
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# 임시 파일
+*.log
+*.bak
+*.swp
+*.tmp
+
+# 클린 빌드 관련 파일
+*.class
+*.jar
+*.war
+*.ear
+
+# C++ 표준 라이브러리의 빌드 아티팩트
+*.o
+*.a
+*.la
+*.lo
