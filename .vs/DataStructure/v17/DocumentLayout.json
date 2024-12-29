@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\\uC0C8 \uD3F4\uB354\\",
+  "WorkspaceRootPath": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\DataStructure\\DataStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71382D3A-BB67-47F4-A390-EF09CA65E068}|BinarySearchTree\\BinarySearchTree.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\\uC0C8 \uD3F4\uB354\\BinarySearchTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{71382D3A-BB67-47F4-A390-EF09CA65E068}|BinarySearchTree\\BinarySearchTree.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\DataStructure\\DataStructure\\BinarySearchTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{71382D3A-BB67-47F4-A390-EF09CA65E068}|BinarySearchTree\\BinarySearchTree.vcxproj|solutionrelative:BinarySearchTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71382D3A-BB67-47F4-A390-EF09CA65E068}|BinarySearchTree\\BinarySearchTree.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\\uC0C8 \uD3F4\uB354\\BinarySearchTree\\BST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{71382D3A-BB67-47F4-A390-EF09CA65E068}|BinarySearchTree\\BinarySearchTree.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\DataStructure\\DataStructure\\BinarySearchTree\\BST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{71382D3A-BB67-47F4-A390-EF09CA65E068}|BinarySearchTree\\BinarySearchTree.vcxproj|solutionrelative:BinarySearchTree\\BST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71382D3A-BB67-47F4-A390-EF09CA65E068}|BinarySearchTree\\BinarySearchTree.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\\uC0C8 \uD3F4\uB354\\BinarySearchTree\\AVL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{71382D3A-BB67-47F4-A390-EF09CA65E068}|BinarySearchTree\\BinarySearchTree.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\DataStructure\\DataStructure\\BinarySearchTree\\AVL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{71382D3A-BB67-47F4-A390-EF09CA65E068}|BinarySearchTree\\BinarySearchTree.vcxproj|solutionrelative:BinarySearchTree\\AVL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BST.h",
-              "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\\uC0C8 \uD3F4\uB354\\BinarySearchTree\\BST.h",
+              "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\DataStructure\\DataStructure\\BinarySearchTree\\BST.h",
               "RelativeDocumentMoniker": "BinarySearchTree\\BST.h",
-              "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\\uC0C8 \uD3F4\uB354\\BinarySearchTree\\BST.h",
+              "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\DataStructure\\DataStructure\\BinarySearchTree\\BST.h",
               "RelativeToolTip": "BinarySearchTree\\BST.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-29T14:41:33.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T14:41:33.888Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AVL.h",
-              "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\\uC0C8 \uD3F4\uB354\\BinarySearchTree\\AVL.h",
+              "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\DataStructure\\DataStructure\\BinarySearchTree\\AVL.h",
               "RelativeDocumentMoniker": "BinarySearchTree\\AVL.h",
-              "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\\uC0C8 \uD3F4\uB354\\BinarySearchTree\\AVL.h",
+              "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\DataStructure\\DataStructure\\BinarySearchTree\\AVL.h",
               "RelativeToolTip": "BinarySearchTree\\AVL.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-29T14:41:32.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T14:41:32.798Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\\uC0C8 \uD3F4\uB354\\BinarySearchTree\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\DataStructure\\DataStructure\\BinarySearchTree\\main.cpp",
               "RelativeDocumentMoniker": "BinarySearchTree\\main.cpp",
-              "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\\uC0C8 \uD3F4\uB354\\BinarySearchTree\\main.cpp",
+              "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\DataStructure\\DataStructure\\BinarySearchTree\\main.cpp",
               "RelativeToolTip": "BinarySearchTree\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvx8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-29T14:41:29.649Z",
               "EditorCaption": ""
